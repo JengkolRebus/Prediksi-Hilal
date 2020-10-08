@@ -1,0 +1,6 @@
+numpy
+ipywidgets
+nbinteract
+skyfield
+cpython
+ipython
