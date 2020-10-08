@@ -4,3 +4,4 @@ skyfield
 cpython
 ipython
 pytz
+pandas
